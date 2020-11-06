@@ -1,0 +1,2 @@
+# MyNotes
+## For Typora images.
